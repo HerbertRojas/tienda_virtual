@@ -1,6 +1,7 @@
 <?php 
-	const BASE_URL = "http://localhost/tienda_virtual";
+	// const BASE_URL = "http://localhost/tienda_virtual";
 	//const BASE_URL = "https://abelosh.com/tiendavirtual";
+	const BASE_URL = "https://pruebatiendavirtual-1aa92d0ff840.herokuapp.com";	
 
 	//Zona horaria
 	date_default_timezone_set('America/Guatemala');
