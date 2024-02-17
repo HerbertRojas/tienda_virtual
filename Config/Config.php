@@ -12,7 +12,7 @@
 	// const DB_PASSWORD = "";
 	// const DB_CHARSET = "utf8";
 
-	const DB_HOST = "localhost";
+	const DB_HOST = "bivulozzj5cdkvqdp8ac-mysql.services.clever-cloud.com";
 	const DB_NAME = "bivulozzj5cdkvqdp8ac";
 	const DB_USER = "uakr1xmnbwafi9cq";
 	const DB_PASSWORD = "lS0OToJJ1eZoHgxcLfwQ";
