@@ -6,10 +6,16 @@
 	date_default_timezone_set('America/Guatemala');
 
 	//Datos de conexión a Base de Datos
+	// const DB_HOST = "localhost";
+	// const DB_NAME = "db_tiendavirtual";
+	// const DB_USER = "root";
+	// const DB_PASSWORD = "";
+	// const DB_CHARSET = "utf8";
+
 	const DB_HOST = "localhost";
-	const DB_NAME = "db_tiendavirtual";
-	const DB_USER = "root";
-	const DB_PASSWORD = "";
+	const DB_NAME = "bivulozzj5cdkvqdp8ac";
+	const DB_USER = "uakr1xmnbwafi9cq";
+	const DB_PASSWORD = "lS0OToJJ1eZoHgxcLfwQ";
 	const DB_CHARSET = "utf8";
 
 	//Para envío de correo
